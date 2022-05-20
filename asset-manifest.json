@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AiperiAkimova/HW_19.git/static/css/main.610aa701.css",
+    "main.js": "/AiperiAkimova/HW_19.git/static/js/main.d8150fa3.js",
+    "index.html": "/AiperiAkimova/HW_19.git/index.html",
+    "main.610aa701.css.map": "/AiperiAkimova/HW_19.git/static/css/main.610aa701.css.map",
+    "main.d8150fa3.js.map": "/AiperiAkimova/HW_19.git/static/js/main.d8150fa3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.610aa701.css",
+    "static/js/main.d8150fa3.js"
+  ]
+}
